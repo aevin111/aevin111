@@ -10,8 +10,6 @@ I'm a team player, as I believe that a strong bond, communication, and understan
 
 Backend development is my strong side. I can also do frontend development for as long as I have a template to work with.
 
-My weakness is, admittedly, UI and UX design. I'm doing my best to conquer that weakness by practicing.
-
 I am proficient in the following languages (in no order):
 - Java
 - PHP
