@@ -18,6 +18,7 @@ I am proficient in the following language (in no order):
 - C# 
 - JavaScript
 - Python
+- Bash/Unix Shell
 - HTML
 - CSS
 
