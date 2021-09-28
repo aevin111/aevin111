@@ -22,7 +22,7 @@ I am proficient in the following language (in no order):
 - HTML
 - CSS
 
-I am also familiar with C++, Rust, and Lua, but I have not yet built any significant project with those languages to the point where I would call myself proficient.
+I am also familiar with C++, Rust, and Lua, but I have not yet built any significant projects with those languages to the point where I would call myself proficient.
 
 I'm also proficient in SQL and NoSQL databases, such as MySQL, SQLite, SQL Server, and Redis. Although, I'm looking to expand my knowledge in NoSQL-based databases such as MongoDB.
 
