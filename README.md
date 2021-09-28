@@ -6,6 +6,10 @@ I like to tinker and reverse engineer with existing software, whether open sourc
 
 I'm a team player, as I believe that a strong bond, communication, and understanding is the best way to conquer any problem a team faces. I'm also comfortable working alone, completing any tasks given to me. I'm capable of learning any language, database, or framework quickly, especially if I find it fun to use.
 
+Backend development is my strong side. I can also do frontend development for as long as I have a template to work with.
+
+My weakness is, admittedly, UI and UX design. I'm doing my best to conquer that weakness by practicing.
+
 I am proficient in the following language (in no order):
 - Java
 - PHP
