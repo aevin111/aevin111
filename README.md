@@ -15,6 +15,6 @@ I am proficient in the following languages (in no order):
 - HTML
 - CSS
 
-I'm also proficient in SQL and NoSQL databases, such as MySQL, SQLite, SQL Server, and Redis. I'm looking to further expand my knowledge in NoSQL-based databases.
+I'm also proficient in SQL and NoSQL databases, such as MySQL, SQLite, SQL Server, and Redis.
 
 If you would like to contact me, please send me an email: abulaong@gmail.com
